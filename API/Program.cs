@@ -14,6 +14,8 @@ builder.Services.AddDbContext<ProductDbContext>(options =>{
       options.UseSqlServer(connectionString);
 });
     
+  // CORS hatasi verdigi için ayarlari yapiyoruz 
+builder.Services.AddCors();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -31,6 +33,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// CORS'u kullan
+app.UseCors(opt => {
+  opt.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000") ;// Frontend adresi
+});
 
 app.UseAuthorization();
 
