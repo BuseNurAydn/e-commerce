@@ -154,3 +154,4 @@ D:\e-commerce\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Cachin
 D:\e-commerce\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\e-commerce\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\e-commerce\API\obj\Debug\net9.0\API.sourcelink.json
+D:\e-commerce\API\bin\Debug\net9.0\API.staticwebassets.runtime.json

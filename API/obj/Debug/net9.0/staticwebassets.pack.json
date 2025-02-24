@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\1.jpg",
+      "PackagePath": "staticwebassets\\İmages\\1.jpg"
+    },
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\2.jpg",
+      "PackagePath": "staticwebassets\\İmages\\2.jpg"
+    },
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\3.jpg",
+      "PackagePath": "staticwebassets\\İmages\\3.jpg"
+    },
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\4.jpg",
+      "PackagePath": "staticwebassets\\İmages\\4.jpg"
+    },
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\5.jpg",
+      "PackagePath": "staticwebassets\\İmages\\5.jpg"
+    },
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\6.jpg",
+      "PackagePath": "staticwebassets\\İmages\\6.jpg"
+    },
+    {
+      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\7.jpg",
+      "PackagePath": "staticwebassets\\İmages\\7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
