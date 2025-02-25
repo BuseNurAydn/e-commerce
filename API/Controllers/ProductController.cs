@@ -19,7 +19,7 @@ public class ProductController : ControllerBase
    }
 
    //get isteği
-   //GET: api/products
+   //GET: api/Product
    [HttpGet]
    public async Task<IActionResult> GetProducts()
    {
@@ -28,7 +28,7 @@ public class ProductController : ControllerBase
    }
 
    //Belirli bir ürüne ait bilgileri almak için kullanılır
-   //GET: api/products/1
+   //GET: api/Product/1
    [HttpGet("{id}")]
    public async Task<IActionResult> GetProduct(int? id) // asenkron // int? id -> null değer de alabilir
    {                                                    // nullable integer (null olabilen tamsayı)

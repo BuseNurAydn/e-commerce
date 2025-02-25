@@ -1,32 +1,32 @@
 {
   "Files": [
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\1.jpg",
-      "PackagePath": "staticwebassets\\İmages\\1.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\2.jpg",
-      "PackagePath": "staticwebassets\\İmages\\2.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\3.jpg",
-      "PackagePath": "staticwebassets\\İmages\\3.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\4.jpg",
-      "PackagePath": "staticwebassets\\İmages\\4.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
     },
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\5.jpg",
-      "PackagePath": "staticwebassets\\İmages\\5.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
     },
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\6.jpg",
-      "PackagePath": "staticwebassets\\İmages\\6.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
     },
     {
-      "Id": "D:\\e-commerce\\API\\wwwroot\\İmages\\7.jpg",
-      "PackagePath": "staticwebassets\\İmages\\7.jpg"
+      "Id": "D:\\e-commerce\\API\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

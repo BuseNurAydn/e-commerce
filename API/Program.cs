@@ -34,7 +34,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseStaticFiles();
+app.UseStaticFiles(); // Statik dosyaların (wwwroot içeriği) servis edilmesini sağlar
+
 // CORS'u kullan
 app.UseCors(opt => {
   opt.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000") ;// Frontend adresi

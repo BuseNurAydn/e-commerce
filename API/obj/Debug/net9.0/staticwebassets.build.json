@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SZWLsSiZuZ7mkXHtGdfdRNdbH+KufyhOAYQA4Y81tkY=",
+  "Hash": "Dc9L3C14hv8ZwcLM7XZWqHcxvPUWIA1SbS6McKlUksU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\1.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/1#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -35,15 +35,15 @@
       "Integrity": "Gftl2l1seImUONudAyf6aS2tqx6K3GNrt9e+xfR8M1Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\2.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/2#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -56,15 +56,15 @@
       "Integrity": "T65//uy1JFo8yQwgCIZIvvvT20H20drurF2SnfzA7GM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\3.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/3#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -77,15 +77,15 @@
       "Integrity": "nfjKH3GGe65a8MjfwqVq6lvGncxJBR0EYjKlsFjsGZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\4.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\4.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/4#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -98,15 +98,15 @@
       "Integrity": "JoAcm2LxYV3xdXpQGhAaU7rSUSNWxOBqNtk+qPvp8cc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
     },
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\5.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\5.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/5#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -119,15 +119,15 @@
       "Integrity": "AYgBM/iuKQUoAUrJBfveXu59kgtRyPtEIOKe/ajpIWE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\5.jpg"
     },
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\6.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\6.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/6#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -140,15 +140,15 @@
       "Integrity": "J6FxtX/wg5SopCjFiGvuFXv84+5zlY6lyQiWjPLcydE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\6.jpg"
     },
     {
-      "Identity": "D:\\e-commerce\\API\\wwwroot\\İmages\\7.jpg",
+      "Identity": "D:\\e-commerce\\API\\wwwroot\\images\\7.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\e-commerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "İmages/7#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -161,13 +161,13 @@
       "Integrity": "nfjKH3GGe65a8MjfwqVq6lvGncxJBR0EYjKlsFjsGZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\İmages\\7.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "İmages/1.3hkxvo0xqq.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\1.jpg",
+      "Route": "images/1.3hkxvo0xqq.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -202,7 +202,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/1.jpg"
+          "Value": "images/1.jpg"
         },
         {
           "Name": "integrity",
@@ -211,8 +211,8 @@
       ]
     },
     {
-      "Route": "İmages/1.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\1.jpg",
+      "Route": "images/1.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -248,8 +248,8 @@
       ]
     },
     {
-      "Route": "İmages/2.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\2.jpg",
+      "Route": "images/2.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -285,8 +285,8 @@
       ]
     },
     {
-      "Route": "İmages/2.vssi81a86z.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\2.jpg",
+      "Route": "images/2.vssi81a86z.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -321,7 +321,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/2.jpg"
+          "Value": "images/2.jpg"
         },
         {
           "Name": "integrity",
@@ -330,8 +330,8 @@
       ]
     },
     {
-      "Route": "İmages/3.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\3.jpg",
+      "Route": "images/3.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -367,8 +367,8 @@
       ]
     },
     {
-      "Route": "İmages/3.xrzecoeyav.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\3.jpg",
+      "Route": "images/3.xrzecoeyav.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -403,7 +403,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/3.jpg"
+          "Value": "images/3.jpg"
         },
         {
           "Name": "integrity",
@@ -412,8 +412,8 @@
       ]
     },
     {
-      "Route": "İmages/4.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\4.jpg",
+      "Route": "images/4.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -449,8 +449,8 @@
       ]
     },
     {
-      "Route": "İmages/4.mt3q269pqe.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\4.jpg",
+      "Route": "images/4.mt3q269pqe.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -485,7 +485,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/4.jpg"
+          "Value": "images/4.jpg"
         },
         {
           "Name": "integrity",
@@ -494,8 +494,8 @@
       ]
     },
     {
-      "Route": "İmages/5.d93q1lyj7c.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\5.jpg",
+      "Route": "images/5.d93q1lyj7c.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -530,7 +530,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/5.jpg"
+          "Value": "images/5.jpg"
         },
         {
           "Name": "integrity",
@@ -539,8 +539,8 @@
       ]
     },
     {
-      "Route": "İmages/5.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\5.jpg",
+      "Route": "images/5.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -576,8 +576,8 @@
       ]
     },
     {
-      "Route": "İmages/6.1mgbua76o9.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\6.jpg",
+      "Route": "images/6.1mgbua76o9.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -612,7 +612,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/6.jpg"
+          "Value": "images/6.jpg"
         },
         {
           "Name": "integrity",
@@ -621,8 +621,8 @@
       ]
     },
     {
-      "Route": "İmages/6.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\6.jpg",
+      "Route": "images/6.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -658,8 +658,8 @@
       ]
     },
     {
-      "Route": "İmages/7.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\7.jpg",
+      "Route": "images/7.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -695,8 +695,8 @@
       ]
     },
     {
-      "Route": "İmages/7.xrzecoeyav.jpg",
-      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\İmages\\7.jpg",
+      "Route": "images/7.xrzecoeyav.jpg",
+      "AssetFile": "D:\\e-commerce\\API\\wwwroot\\images\\7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -731,7 +731,7 @@
         },
         {
           "Name": "label",
-          "Value": "İmages/7.jpg"
+          "Value": "images/7.jpg"
         },
         {
           "Name": "integrity",
