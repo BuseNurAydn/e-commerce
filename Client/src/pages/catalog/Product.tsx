@@ -1,4 +1,4 @@
-import { IProduct } from "../model/IProduct";
+import { IProduct } from "../../model/IProduct";
 import {Card ,CardMedia, CardContent, Typography, CardActions, Button} from '@mui/material';
 import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 import SearchIcon from '@mui/icons-material/Search';
