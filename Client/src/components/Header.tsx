@@ -24,6 +24,7 @@ const navStyles = {
 const Header = (props: any) => {
   return (
     <AppBar position="static" sx={{ mb: 4 }} color="secondary">
+      
       <Toolbar sx={{display:'flex', justifyContent:'space-between'}}>
    
          <Box sx={{ display: "flex", alignItems: "center"}}>
@@ -33,7 +34,7 @@ const Header = (props: any) => {
         <Box sx={{ display: "flex", alignItems: "center"}}>
           <List sx={{ display: "flex" }}>
             {links.map(link =>     //NavLink : sayfa yenilenmeden geçiş yapmak için
-              <ListItem component={NavLink} to={link.to} sx={navStyles} > {link.title} </ListItem>
+              <ListItem key={link.to} component={NavLink} to={link.to} sx={navStyles} > {link.title} </ListItem>
             )}
           </List>
         </Box>
@@ -47,6 +48,7 @@ const Header = (props: any) => {
         </Box>
        
       </Toolbar>
+      
     </AppBar>
   )
 }
